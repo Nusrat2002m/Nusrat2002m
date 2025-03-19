@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
 <h3 align="center">An enthusiasts of Data science and ML Engineering.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s">
+<img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
