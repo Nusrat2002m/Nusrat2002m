@@ -2,7 +2,7 @@
 
 <!--
 **Hi There, I'm Nusrat Jahan** 
-Here are some ideas to get you started:
+An enthusiast of Data science and ML Engineering.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
